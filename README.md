@@ -8,10 +8,14 @@ Curated list for the SWC projects.
 
 - [awesome-swc](#awesome-swc)
 - [Table of Contents](#table-of-contents)
+  - [Starter templates](#starter-templates)
   - [Wasm plugins](#wasm-plugins)
     - [Official](#official)
     - [3rd-party](#3rd-party)
 
+
+## Starter templates
+ 
 
 ## Wasm plugins
 
@@ -27,4 +31,3 @@ Curated list for the SWC projects.
  - [`swc-confidential`](https://github.com/swc-project/plugins/tree/main/packages/swc-confidential) - A plugin to hide confidential information.
 
 ### 3rd-party
-
