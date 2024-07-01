@@ -12,6 +12,7 @@ Curated list for the SWC projects.
   - [Wasm plugins](#wasm-plugins)
     - [Official](#official)
     - [3rd-party](#3rd-party)
+  - [Packages](#packages)
 
 
 ## Starter templates
@@ -31,3 +32,9 @@ Curated list for the SWC projects.
  - [`swc-confidential`](https://github.com/swc-project/plugins/tree/main/packages/swc-confidential) - A plugin to hide confidential information.
 
 ### 3rd-party
+
+## Packages
+
+ - [`@swc/cli`](https://github.com/swc-project/pkgs/tree/main/packages/cli) - A command line interface for swc.
+ - [`@swc/jest`](https://github.com/swc-project/pkgs/tree/main/packages/jest) - A jest transformer.
+ - [`swc-loader`](https://github.com/swc-project/pkgs/tree/main/packages/swc-loader) - A webpack loader for swc.
