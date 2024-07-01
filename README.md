@@ -38,3 +38,4 @@ Curated list for the SWC projects.
  - [`@swc/cli`](https://github.com/swc-project/pkgs/tree/main/packages/cli) - A command line interface for swc.
  - [`@swc/jest`](https://github.com/swc-project/pkgs/tree/main/packages/jest) - A jest transformer.
  - [`swc-loader`](https://github.com/swc-project/pkgs/tree/main/packages/swc-loader) - A webpack loader for swc.
+ - [`rollup-plugin-swc3`](https://www.npmjs.com/package/rollup-plugin-swc3) - A popular rollup plugin to transpile TypeScript/JavaScript with the swc.
