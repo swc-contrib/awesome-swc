@@ -35,6 +35,7 @@ Curated list for the SWC projects.
 ### 3rd-party
 
 - [`swc-plugin-vue-jsx`](https://github.com/g-plane/swc-plugin-vue-jsx) - A SWC plugin for transforming Vue JSX.
+- [`graphql-tag-swc-plugin`](https://github.com/rishabh3112/graphql-tag-swc-plugin) - A SWC plugin for transforming graphql tagged strings to AST objects.
 
 ## Packages
 
