@@ -30,8 +30,11 @@ Curated list for the SWC projects.
  - [`styled-components`](https://github.com/swc-project/plugins/tree/main/packages/styled-components) - A plugin for `styled-components` css-in-js library.
  - [`styled-jsx`](https://github.com/swc-project/plugins/tree/main/packages/styled-jsx) - A plugin to transform `styled-jsx` elements.
  - [`swc-confidential`](https://github.com/swc-project/plugins/tree/main/packages/swc-confidential) - A plugin to hide confidential information.
+ - [`transform-imports`](https://github.com/swc-project/plugins/tree/main/packages/transform-imports) - A plugin to transform import paths.
 
 ### 3rd-party
+
+- [`swc-plugin-vue-jsx`](https://github.com/g-plane/swc-plugin-vue-jsx) - A SWC plugin for transforming Vue JSX.
 
 ## Packages
 
