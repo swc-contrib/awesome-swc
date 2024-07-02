@@ -36,6 +36,9 @@ Curated list for the SWC projects.
 
 - [`swc-plugin-vue-jsx`](https://github.com/g-plane/swc-plugin-vue-jsx) - A SWC plugin for transforming Vue JSX.
 - [`graphql-tag-swc-plugin`](https://github.com/rishabh3112/graphql-tag-swc-plugin) - A SWC plugin for transforming graphql tagged strings to AST objects.
+- [`swc-plugin-import-meta-env`](https://github.com/Codex-/swc-plugin-import-meta-env) - A plugin to transform `import.meta.env` to `process.env`.
+- [`@swc-jotai/react-refresh`](https://github.com/pmndrs/swc-jotai) - A plugin for supporting React Refresh with Jotai.
+- [`@formatjs/swc-plugin`](https://github.com/formatjs/formatjs/tree/main/packages/swc-plugin) - A plugin for FormatJS.
 
 ## Packages
 
