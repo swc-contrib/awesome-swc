@@ -40,6 +40,7 @@ Curated list for the SWC projects.
 - [`@swc-jotai/react-refresh`](https://github.com/pmndrs/swc-jotai) - A plugin for supporting React Refresh with Jotai.
 - [`@formatjs/swc-plugin`](https://github.com/formatjs/formatjs/tree/main/packages/swc-plugin) - A plugin for FormatJS.
 - [`swc-plugin-transform-module-specifiers`](https://github.com/1zumii/swc-plugin-transform-module-specifiers) - A plugin for transforming file extensions in import, export path.
+- [`swc-plugin-coverage-instrument`](https://github.com/kwonoj/swc-plugin-coverage-instrument) - Istanbuljs compatible coverage instrumentation plugin
 
 ## Packages
 
@@ -47,3 +48,4 @@ Curated list for the SWC projects.
  - [`@swc/jest`](https://github.com/swc-project/pkgs/tree/main/packages/jest) - A jest transformer.
  - [`swc-loader`](https://github.com/swc-project/pkgs/tree/main/packages/swc-loader) - A webpack loader for swc.
  - [`rollup-plugin-swc3`](https://www.npmjs.com/package/rollup-plugin-swc3) - A popular rollup plugin to transpile TypeScript/JavaScript with the swc.
+ - [`woodpile`](https://github.com/kwonoj/woodpile) - SWC AST Visitor in Javascript
