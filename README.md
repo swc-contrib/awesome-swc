@@ -39,6 +39,7 @@ Curated list for the SWC projects.
 - [`swc-plugin-import-meta-env`](https://github.com/Codex-/swc-plugin-import-meta-env) - A plugin to transform `import.meta.env` to `process.env`.
 - [`@swc-jotai/react-refresh`](https://github.com/pmndrs/swc-jotai) - A plugin for supporting React Refresh with Jotai.
 - [`@formatjs/swc-plugin`](https://github.com/formatjs/formatjs/tree/main/packages/swc-plugin) - A plugin for FormatJS.
+- [`@lingui/swc-plugin`](https://github.com/lingui/swc-plugin) - A plugin for LinguiJS Macro
 - [`swc-plugin-transform-module-specifiers`](https://github.com/1zumii/swc-plugin-transform-module-specifiers) - A plugin for transforming file extensions in import, export path.
 - [`swc-plugin-coverage-instrument`](https://github.com/kwonoj/swc-plugin-coverage-instrument) - Istanbuljs compatible coverage instrumentation plugin
 
