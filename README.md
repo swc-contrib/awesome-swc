@@ -31,6 +31,7 @@ Curated list for the SWC projects.
  - [`styled-jsx`](https://github.com/swc-project/plugins/tree/main/packages/styled-jsx) - A plugin to transform `styled-jsx` elements.
  - [`swc-confidential`](https://github.com/swc-project/plugins/tree/main/packages/swc-confidential) - A plugin to hide confidential information.
  - [`transform-imports`](https://github.com/swc-project/plugins/tree/main/packages/transform-imports) - A plugin to transform import paths.
+ - [`prefresh`](https://github.com/swc-project/plugins/tree/main/packages/prefresh) - A plugin to provide Hot Module Reloading for Preact.
 
 ### 3rd-party
 
@@ -49,4 +50,5 @@ Curated list for the SWC projects.
  - [`@swc/jest`](https://github.com/swc-project/pkgs/tree/main/packages/jest) - A jest transformer.
  - [`swc-loader`](https://github.com/swc-project/pkgs/tree/main/packages/swc-loader) - A webpack loader for swc.
  - [`rollup-plugin-swc3`](https://www.npmjs.com/package/rollup-plugin-swc3) - A popular rollup plugin to transpile TypeScript/JavaScript with the swc.
- - [`woodpile`](https://github.com/kwonoj/woodpile) - SWC AST Visitor in Javascript
+ - [`woodpile`](https://github.com/kwonoj/woodpile) - SWC AST Visitor in Javascript.
+ - [`Rspack`](https://github.com/web-infra-dev/rspack) - A fast JavaScript bundler based on Rust and SWC.
