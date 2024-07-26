@@ -42,7 +42,8 @@ Curated list for the SWC projects.
 - [`@formatjs/swc-plugin`](https://github.com/formatjs/formatjs/tree/main/packages/swc-plugin) - A plugin for FormatJS.
 - [`@lingui/swc-plugin`](https://github.com/lingui/swc-plugin) - A plugin for LinguiJS Macro
 - [`swc-plugin-transform-module-specifiers`](https://github.com/1zumii/swc-plugin-transform-module-specifiers) - A plugin for transforming file extensions in import, export path.
-- [`swc-plugin-coverage-instrument`](https://github.com/kwonoj/swc-plugin-coverage-instrument) - Istanbuljs compatible coverage instrumentation plugin
+- [`swc-plugin-coverage-instrument`](https://github.com/kwonoj/swc-plugin-coverage-instrument) - Istanbuljs compatible coverage instrumentation plugin.
+- [`stylex-swc-plugin`](https://github.com/dwlad90/stylex-swc-plugin) - A SWC plugin for [facebook/stylex](https://github.com/facebook/stylex).
 
 ## Packages
 
